@@ -1,3 +1,4 @@
+#  Celebal Summer Internship- Assignment 6 - Model Evaluation and Hyperparameter Tuning
 # Stroke Prediction
 
 This dataset uses Logistic Regression to predict the likelihood of brain stroke based on patient data.
